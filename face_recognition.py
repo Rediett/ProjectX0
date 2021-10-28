@@ -100,7 +100,7 @@ if __name__ == "__main__":
 #     cv.destroyAllWindows()
 
 # For testing from code
-# image = r'/Users/rediettadesse/Documents/GitHub/ProjectX0/image3.jpeg' #image full path
+# image = r'./Documents/GitHub/ProjectX0/image3.jpeg' #image full path
 # test_image =  cv.imread(image) #load the image from the file specified from the command line
 # result_image = detect_faces(test_image)  #detect the faces
 # draw_rects(test_image,result_image)
